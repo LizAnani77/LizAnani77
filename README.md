@@ -2,7 +2,6 @@
 
 <br><br><br>
 
-**Hello, I'm Lizzie - @LizAnani77**
 
 ```
 Currently:  Student at 42
@@ -15,6 +14,9 @@ Location:   Paris, FR
 ---
 
 <div align="center">
+
+
+**`Hello, I'm Lizzie - @LizAnani77`**
 
 **`🌊 My journey`**
 
