@@ -66,6 +66,5 @@ Location:   Paris, FR
 
 `Outside the screen, I 💙 science and especially Quantum Physics!`
 
-✉ `lanani-f@student.42.fr`
 
 </div>
