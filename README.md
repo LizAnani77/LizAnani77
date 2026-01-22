@@ -22,8 +22,8 @@ Location:   Paris, FR
 
 **`🌊 My journey`**
 
-`After` **`20 years at Agnès b`** `as Store Manager, I made a career shift into tech by joining` **`42 Paris`**.  
-`I recently completed the common core — months of intensive coding, debugging, and still learning.`
+`After` **`20 years at agnès b.`** `as a Store Manager, I made a career shift into tech by joining` **`42 Paris`**.  
+`I recently completed the common core — months of intensive coding, debugging, and continuous learning.`
 
 ---
 
