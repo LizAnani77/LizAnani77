@@ -54,7 +54,7 @@ Location:   Paris, FR
 
 **`🛠️ Tech stack`**
 
-`TypeScript` `JavaScript` `HTML` `CSS` `Node.js` `Fastify` `C` `C++` `Docker` `SQL` `Git`
+`TypeScript` `Python` `JavaScript` `HTML` `CSS` `Node.js` `Fastify` `C` `C++` `Docker` `SQL` `Git`
 
 ---
 
