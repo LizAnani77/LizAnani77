@@ -29,6 +29,7 @@ Location:   Paris, FR
 
 **`💻 42 Projects`**
 
+🔹 **`Ftl_quantum (in progress)`** : `Python` · `Qiskit`  
 🔹 **`Transcendence`** : `Fullstack Pong web app` · `TypeScript` · `Node.js` · `Docker`  
 🔹 **`Ft_irc`** : `IRC server in C++` · `connections` · `channels` · `protocol`  
 🔹 **`Inception`** : `Multi-container infrastructure` · `Docker Compose`  
